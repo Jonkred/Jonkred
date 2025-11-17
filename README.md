@@ -135,7 +135,7 @@
     title="Databricks"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg](https://www.google.com/imgres?q=databricks%20svg&imgurl=https%3A%2F%2Faz-icons.com%2Fexport%2Ficons%2Fd180faa9ddc77cb9e841ff02998e5e21.svg&imgrefurl=https%3A%2F%2Faz-icons.com%2Ficon%2Fazure-databricks&docid=t-C8qPnULMLfXM&tbnid=WcDPV-w29ZGOMM&vet=12ahUKEwi5i8G4iPqQAxXxE7kGHdQeJ_4QM3oECBsQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi5i8G4iPqQAxXxE7kGHdQeJ_4QM3oECBsQAA)" 
 />
 <img 
     align="left" 
