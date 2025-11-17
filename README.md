@@ -2,9 +2,9 @@
 
 **`Data Engineer | Especialista em Integração de Dados em Grande Escala`**
 
-[cite_start]Me chamo Jonathan Guida Oliveira Santos, sou Engenheiro de Dados com mais de 11 anos de experiência na construção e otimização de pipelines de dados escaláveis e arquiteturas multicloud[cite: 1, 2, 5]. [cite_start]Tenho expertise transformando dados brutos em insights estratégicos utilizando Python, SQL, Spark e as principais nuvens do mercado (AWS, Azure e GCP)[cite: 6].
+Me chamo Jonathan Guida Oliveira Santos, sou Engenheiro de Dados com mais de 11 anos de experiência na construção e otimização de pipelines de dados escaláveis e arquiteturas multicloud. Tenho expertise transformando dados brutos em insights estratégicos utilizando Python, SQL, Spark e as principais nuvens do mercado (AWS, Azure e GCP).
 
-[cite_start]Atualmente, lidero projetos focados em migração de dados, governança e redução de custos, com forte atuação em orquestração usando Airflow e dbt, além de processamento distribuído com Dataproc e Kafka[cite: 7, 8, 12].
+Atualmente, lidero projetos focados em migração de dados, governança e redução de custos, com forte atuação em orquestração usando Airflow e dbt, além de processamento distribuído com Dataproc e Kafka.
 
 <p align="left">
     <a href="https://www.linkedin.com/in/jonathan-guida">
@@ -27,169 +27,47 @@
 
 ### ☁️ Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Scala" 
-    title="Scala"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scala/scala-original.svg" height="40" alt="Scala"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="GCP"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Azure"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="Terraform"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="Ansible"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachespark/apachespark-original.svg" height="40" alt="Spark"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg" height="40" alt="Databricks"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="40" alt="Kafka"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="Airflow"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="40" alt="Snowflake"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"  />
+</div>
 
-<br/><br/>
-
-<img 
-    align="left" 
-    alt="Google Cloud" 
-    title="GCP (BigQuery, Dataproc, Pub/Sub)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS" 
-    title="AWS (Redshift, Aurora, Kinesis)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="Azure" 
-    title="Azure (EventHub)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Terraform" 
-    title="Terraform (IaC)"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Ansible" 
-    title="Ansible"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ansible/ansible-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Docker" 
-    title="Docker"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
-/>
-
-<br/><br/>
-
-<img 
-    align="left" 
-    alt="Apache Spark" 
-    title="Apache Spark"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Databricks" 
-    title="Databricks"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/databricks/databricks-original.svg](https://www.google.com/imgres?q=databricks%20svg&imgurl=https%3A%2F%2Faz-icons.com%2Fexport%2Ficons%2Fd180faa9ddc77cb9e841ff02998e5e21.svg&imgrefurl=https%3A%2F%2Faz-icons.com%2Ficon%2Fazure-databricks&docid=t-C8qPnULMLfXM&tbnid=WcDPV-w29ZGOMM&vet=12ahUKEwi5i8G4iPqQAxXxE7kGHdQeJ_4QM3oECBsQAA..i&w=800&h=800&hcb=2&ved=2ahUKEwi5i8G4iPqQAxXxE7kGHdQeJ_4QM3oECBsQAA)" 
-/>
-<img 
-    align="left" 
-    alt="Apache Kafka" 
-    title="Apache Kafka"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Apache Airflow" 
-    title="Apache Airflow"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" 
-/>
-
-<br/><br/>
-
-<img 
-    align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL" 
-    title="PostgreSQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Snowflake" 
-    title="Snowflake"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MongoDB" 
-    title="MongoDB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
-/>
-
-<br/><br/>
+<br/>
 
 ### 📊 Estatísticas
 
