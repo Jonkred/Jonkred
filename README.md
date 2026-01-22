@@ -2,7 +2,7 @@
 
 **`Data Engineer | Especialista em Integração de Dados em Grande Escala`**
 
-Me chamo Jonathan Guida Oliveira Santos, sou Engenheiro de Dados com mais de 11 anos de experiência na construção e otimização de pipelines de dados escaláveis e arquiteturas multicloud. Tenho expertise transformando dados brutos em insights estratégicos utilizando Python, SQL, Spark e as principais nuvens do mercado (AWS, Azure e GCP).
+Me chamo Jonathan Guida Oliveira Gonçalves, sou Engenheiro de Dados com mais de 11 anos de experiência na construção e otimização de pipelines de dados escaláveis e arquiteturas multicloud. Tenho expertise transformando dados brutos em insights estratégicos utilizando Python, SQL, Spark e as principais nuvens do mercado (AWS, Azure e GCP).
 
 Atualmente, lidero projetos focados em migração de dados, governança e redução de custos, com forte atuação em orquestração usando Airflow e dbt, além de processamento distribuído com Dataproc, Databricks e Kafka.
 
